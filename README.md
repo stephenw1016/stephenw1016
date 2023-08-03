@@ -2,7 +2,7 @@
 I'm a full-stack Principal Software Engineer based in Fort Washington, Maryland 🇺🇸.
 
 ## What I’m working on
-- A large React project—an extensible platform that other developer teams leverage to build customized solutions for multiple government agencies.
+- A large React project at [Research Innovations Inc.](https://www.researchinnovations.com/)—an extensible platform that other developer teams leverage to build customized solutions for multiple government agencies.
 - [Abilities.fyi](https://www.abilities.fyi/abilities) - A website that provides gamers more insight into the various "abilities" in
 Madden NFL. The site is built with Next.js, TypeScript, and Material UI.
 
